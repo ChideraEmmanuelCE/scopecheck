@@ -40,7 +40,7 @@ Drafts are saved in localStorage on the current device and browser. Shared-devic
 
 ## Publication
 
-This repository contains the source project. No hosting deployment or GitHub Pages configuration is included.
+GitHub Pages publishes the website from the root of the main branch. Future updates to main automatically rebuild the site.
 
 ## Limitations
 
